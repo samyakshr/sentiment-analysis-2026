@@ -51,6 +51,8 @@ jupyter notebook
 
 5. Open `sentiment_analysis.ipynb` and follow the instructions in the notebook.
 
+**New to Jupyter?** See `JUPYTER_GUIDE.md` for detailed step-by-step instructions!
+
 ## Usage
 
 You can run the analysis in two ways:

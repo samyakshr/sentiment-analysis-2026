@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Data files (keep template, ignore actual data)
+survey_data.csv
+*.csv
+!survey_data_template.csv
+
+# Results and reports
+sentiment_analysis_results_*.csv
+sentiment_report_*.txt
+sentiment_distribution.png
+sentiment_scores.png
+*.png
+!survey_data_template.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model cache (optional - uncomment if you want to ignore downloaded models)
+# .cache/
+# transformers_cache/
+

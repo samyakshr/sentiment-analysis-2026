@@ -10,8 +10,6 @@ A professional sentiment analysis tool for analyzing survey responses using stat
 - **Export Capabilities**: Exports results to CSV and generates text reports
 - **Easy to Use**: Simple Jupyter notebook interface - just update the data file path and run
 
-## Model Choice
-
 This project uses a **pretrained transformer model** (RoBERTa) rather than a lexicon-based approach because:
 - Higher accuracy on nuanced text
 - Better understanding of context
